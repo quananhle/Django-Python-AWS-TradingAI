@@ -1,1 +1,1 @@
-# Python-TradingAI
+# TradingAI in Python
